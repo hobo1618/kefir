@@ -1,0 +1,7 @@
+/home/hobo/Documents/dev/kefir/target/debug/deps/cassowary-e840769e055d24eb.rmeta: /home/hobo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cassowary-0.3.0/src/lib.rs /home/hobo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cassowary-0.3.0/src/solver_impl.rs /home/hobo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cassowary-0.3.0/src/operators.rs
+
+/home/hobo/Documents/dev/kefir/target/debug/deps/cassowary-e840769e055d24eb.d: /home/hobo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cassowary-0.3.0/src/lib.rs /home/hobo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cassowary-0.3.0/src/solver_impl.rs /home/hobo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cassowary-0.3.0/src/operators.rs
+
+/home/hobo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cassowary-0.3.0/src/lib.rs:
+/home/hobo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cassowary-0.3.0/src/solver_impl.rs:
+/home/hobo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cassowary-0.3.0/src/operators.rs:
